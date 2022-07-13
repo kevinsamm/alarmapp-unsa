@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916812058933",
+    "project_id": "alarm-app-38856",
+    "storage_bucket": "alarm-app-38856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916812058933:android:f400b712d622068b19fc7c",
+        "android_client_info": {
+          "package_name": "com.unsa.alarma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916812058933-nim43t4v09ime4s2ndve0jhj7qbtt6ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa97P5UMv9s_-aaGmedip1EgFe4OMlFZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916812058933-nim43t4v09ime4s2ndve0jhj7qbtt6ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
